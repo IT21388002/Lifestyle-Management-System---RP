@@ -92,7 +92,7 @@ Health is essential, but many individuals struggle to maintain it due to their b
 4. Results are displayed on the user dashboard.
 
 ### Diagram
-![System Architecture](path/to/system_architecture.png)
+![System Architecture](/System Diagram.png)
 
 ---
 
