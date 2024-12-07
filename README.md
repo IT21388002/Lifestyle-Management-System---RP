@@ -11,6 +11,7 @@ The Lifestyle Management System is a cutting-edge application designed to assist
 
 ## Table of Contents
 
+- [Research Question](#research-question)
 - [About the Project](#about-the-project)
 - [Key Features](#key-features)
 - [System Architecture](#system-architecture)
@@ -18,6 +19,12 @@ The Lifestyle Management System is a cutting-edge application designed to assist
 - [System Requirements](#system-requirements)
 - [Setup Instructions](#setup-instructions)
 - [License](#license)
+
+---
+
+## Research Question
+
+How can we develop a comprehensive system that provides personalized diseases diagnosis, stress management, diet plans and exercise schedules that take into a account medical conditions, dietary preferences and cultural factors to improve health outcomes for young adults ?
 
 ---
 
