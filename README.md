@@ -92,7 +92,8 @@ Health is essential, but many individuals struggle to maintain it due to their b
 4. Results are displayed on the user dashboard.
 
 ### Diagram
-![System Architecture](/System Diagram.png)
+![System Diagram](https://github.com/IT21388002/Lifestyle-Management-System---RP/raw/main/System%20Diagram.png)
+
 
 ---
 
