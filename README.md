@@ -54,18 +54,18 @@ Health is essential, but many individuals struggle to maintain it due to their b
 ### Health Risk Assessment - Hasamal M.A.P
 - Analyze blood reports to identify risks for diseases like diabetes, cardiovascular conditions, and anemia.
 
-### Personalized Meal Plans -Jayathissa K.A.D.S.S
+### Personalized Meal Plans - Jayathissa K.A.D.S.S
 - Generate tailored meal plans based on height, weight, and blood report data.
 
-### Exercise Management - 
+### Exercise Management - Dhananjaya A.K.G.S
 - Create fitness schedules using BMI and caloric burn metrics.
 - Monitor real-time data through smartwatches.
 
-### Stress Management - Dhananjaya A.K.G.S
+### Stress Management - Dasanayaka D.M.U.H
 - Detect stress levels using user data.
 - Offer actionable suggestions to reduce stress.
 
-### User Dashboard - Dasanayaka D.M.U.H
+### User Dashboard 
 - A single interface for monitoring all health metrics.
 - Insights on diet, exercise, and stress.
 
