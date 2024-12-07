@@ -78,7 +78,7 @@ Health is essential, but many individuals struggle to maintain it due to their b
    - User-friendly interfaces for clients.
    
 2. **Backend**  
-   - RESTful APIs for seamless communication.
+   - FastAPI for seamless communication.
    - Machine learning models for predictions.
    
 3. **Data Analysis**
@@ -96,57 +96,79 @@ Health is essential, but many individuals struggle to maintain it due to their b
 
 ---
 
-## Technologies Used
+## Tools & Technologies
 
 ### Frontend
-- **React.js**: Used for UI development.
-- **CSS Frameworks**: Tailwind CSS or Material-UI for styling the frontend.
+- **Flutter**: Used for cross-platform UI development, primarily on Android (using Android Studio).
 
 ### Backend
-- **Python (FastAPI)**: Primary backend framework for developing RESTful APIs.
-- **Node.js with Express.js**: Assumed used for specific non-Python-based components or microservices, if any.
+- **Python (FastAPI)**: Primary backend framework for building RESTful APIs.
+- **Node.js**: Potentially used for additional non-Python microservices or integration purposes.
 
 ### Database
-- **Google Firestore**: Used for NoSQL database storage.
+- **Google Firestore**: Used as the NoSQL database for storing and managing application data.
 
-### Libraries
-#### Python
-- **Machine Learning**:  
-  - TensorFlow  
-  - Scikit-learn  
-  - Joblib (Model persistence)  
 
-- **Data Processing**:  
-  - Pandas  
-  - NumPy  
+## Machine Learning Models
+- **Logistic Regression**
+- **Random Forest**
+- **Support Vector Machines (SVM)**
+- **K-Nearest Neighbors (KNN)**
 
-- **Text Extraction**:  
-  - PDFMiner.six  
-  - EasyOCR  
 
-- **Spell Checking and Corrections**:  
-  - Autocorrect  
+## Libraries
 
-- **Utilities**:  
-  - Pillow (Image processing)  
-  - bcrypt (Password hashing)  
+### Python
+#### Machine Learning and Deep Learning
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Keras
 
-### Tools
-- **Development**:  
-  - VS Code  
-  - Google Colab  
+#### Data Processing and Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-- **Version Control**:  
-  - Git  
+#### Model Persistence
+- Joblib
 
-- **API Testing**:  
-  - Postman  
+#### Text Processing
+- PDFMiner.six (Text extraction from PDFs)
+- EasyOCR (Optical Character Recognition)
+- Autocorrect (Spell checking and correction)
 
-- **Deployment**:  
-  - Uvicorn (ASGI server)  
+#### Utilities
+- bcrypt (Password hashing)
+- Pillow (Image processing)
 
-- **Dataset Management**:  
-  - CSV files for loading and processing data  
+### JavaScript/Node.js
+- Relevant libraries as needed, such as Express.js.
+
+
+## Tools
+
+### Development
+- Google Colab (For data science and ML model development)
+- VS Code
+- Android Studio
+
+### Version Control
+- Git
+
+### API Testing
+- Postman
+
+### Deployment
+- Uvicorn (ASGI server for FastAPI applications)
+
+### Dataset Management
+- CSV files for handling data input and output
+
+### Package Management
+- pip (Python)
+- npm (Node.js)
 
 ---
 
@@ -169,6 +191,7 @@ Health is essential, but many individuals struggle to maintain it due to their b
 - Node.js and npm
 - Python 3.x
 - Google Firestore account
+- Flutter and Android Studio setup
 - Git
 
 --- 
